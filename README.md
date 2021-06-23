@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 ### 📧如何与我取得联系
 
-如果你对这些开源的框架有任何疑问或建议，可以直接在库的页面提交 issues，不过因为工作的原因我可能不能及时答复，你可以通过  邮件至：jianfei7755@qq.com[mail:to=jianfei7755@qq.com]，我会尽快答复。
+如果你对这些开源的框架有任何疑问或建议，可以直接在库的页面提交 issues，不过因为工作的原因我可能不能及时答复，你可以通过  邮件至：jianfei7755@qq.com，我会尽快答复。
 
 
