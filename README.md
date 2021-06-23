@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🌐我的个人网站和博客
 
-> [https://330132662.github.io/shanhe/](Github Pages)
+> [https://330132662.github.io/shanhe/] (Github Pages)
 
  
 
