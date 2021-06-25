@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 
  
 
-### ✔️我所擅长的
+### ✔️我所擅长的  
+PHP(ThinkPhp/Laravel)
+Android,JavaSe
+小程序
 
  
 
