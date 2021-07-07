@@ -32,7 +32,11 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Paladinhanxiao/count.svg" />
 </p>
+<td align="center" valign="middle" width="50%">
 
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Paladinhanxiao&layout=compact)
+
+</td>
 ### ✔️我所擅长的  
 PHP(ThinkPhp/Laravel)  
 Android,JavaSe  
