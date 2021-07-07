@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 
 > [https://330132662.github.io/shanhe/] (Github Pages)
 
- 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Paladinhanxiao/count.svg" />
+</p>
 
 ### ✔️我所擅长的  
 PHP(ThinkPhp/Laravel)  
