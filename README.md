@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## Jeff 的 Github
 
 共勉！
@@ -27,8 +26,12 @@ Here are some ideas to get you started:
 ### 🌐我的个人网站和博客
 
 > [https://330132662.github.io/shanhe/] (Github Pages)
+> 
+> [CSDN]([来敲代码了。_芋头丸_CSDN博客-Android界面编程,Android开发环境,Android异常解决领域博主](https://blog.csdn.net/sdjianfei))
+> 
+> [Stack Overflow]([User JeffLi - Stack Overflow](https://stackoverflow.com/users/7377015/jeffli))
 
- <p align="center"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Paladinhanxiao/count.svg" />
 </p>
@@ -42,11 +45,6 @@ PHP(ThinkPhp/Laravel)
 Android,JavaSe  
 Javascript ,小程序  ,Vue2
 
-
- 
-
 ### 📧如何与我取得联系
 
 如果你对这些开源的框架有任何疑问或建议，可以直接在库的页面提交 issues，不过因为工作的原因我可能不能及时答复，你可以通过  邮件至：jianfei7755@qq.com，我会尽快答复。
-
-
