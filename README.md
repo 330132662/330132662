@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 > [https://330132662.github.io/shanhe/] (Github Pages)
 > 
-> [oldccc]([csdn-a](https://blog.csdn.net/sdjianfei))  
-> [CSDN]([User JeffLi - Stack Overflow](https://blog.csdn.net/sdjianfei))  
+> [CSDN]([ CSDN ](https://blog.csdn.net/sdjianfei/))  
 > [Stack Overflow]([User JeffLi - Stack Overflow](https://stackoverflow.com/users/7377015/jeffli))
 
 [oldccc](%5Bcsdn-a%5D(https://blog.csdn.net/sdjianfei))
