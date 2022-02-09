@@ -29,7 +29,18 @@ Here are some ideas to get you started:
 > 
 > [LearnKu]([ 你看我吊吗啊 个人信息 | LearnKu 终身编程者的知识社区 ](https://learnku.com/users/22861))
 > 
+> [GitLab]([Jeff · GitLab](https://gitlab.com/330132662))
+> 
+> [Gitee]([Jeff Li (jeffcat) - Gitee.com](https://gitee.com/jeffcat))
+> 
+> [Segmentfault](https://segmentfault.com/u/jianfei)
+> 
+> [微信开放社区](https://developers.weixin.qq.com/community/personal/oCJUsw_IFAZhelnhbi2uEGnMzJGY)
+> 
+> [知乎](https://www.zhihu.com/people/jeffadmin)
+> 
 > [CSDN]([ CSDN ](https://blog.csdn.net/sdjianfei/))  
+> 
 > [Stack Overflow]([User JeffLi - Stack Overflow](https://stackoverflow.com/users/7377015/jeffli))
 
 <p align="center"> 
