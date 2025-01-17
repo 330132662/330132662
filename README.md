@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 ## Jeff 的 Github
 
 共勉！`大流量卡172号卡热推中！合伙人0费用加入！`
+[点击这里选购最低9元1000G不限速流量的随身WIFI](https://h5.feilimao.cn/#/index/4888573cd7b4633b/1)  
+[点击这里成为随身WIFI合伙人](https://sales.feilimao.cn/#/register_choose/4888573cd7b4633b)
+
+
 [点击这里了解我为您精心挑选的流量卡](https://172.lot-ml.com/ProductEn/Index/ee934809c2efd89b)  
-[点击这里成或扫描下方二维码为合伙人](https://haoka.lot-ml.com/plugreg.html?agentid=60626)   
-<div> <img src="http://qiniu2.appppa.cn/zblog/ka/2025/01/202501136304_1064.jpg" style="width: 250px;height: 450px" alt="微信赞赏码"/></div>
+[点击这里成为流量卡合伙人](https://haoka.lot-ml.com/plugreg.html?agentid=60626)
 
 ### 🚀统计
 
