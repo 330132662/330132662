@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 共勉！`大流量卡172号卡热推中！合伙人0费用加入！`
 [点击这里了解我为您精心挑选的流量卡](https://172.lot-ml.com/ProductEn/Index/ee934809c2efd89b)  
 [点击这里成或扫描下方二维码为合伙人](https://haoka.lot-ml.com/plugreg.html?agentid=60626)   
-![ 手机：长按扫码  ，电脑上：拿出微信或能扫码的浏览器即可扫码快速注册，注册后联系我调整佣金比例  ，我给你发小程序后台](http://qiniu2.appppa.cn/zblog/ka/2025/01/202501136304_1064.jpg)
+<div> <img src="http://qiniu2.appppa.cn/zblog/ka/2025/01/202501136304_1064.jpg" style="width: 250px;height: 450px" alt="微信赞赏码"/></div>
 
 ### 🚀统计
 
